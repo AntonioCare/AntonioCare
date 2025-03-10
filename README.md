@@ -8,6 +8,6 @@ Tools:<br>
 Visual Studio Code, Git, Git Hub<br>
 All'interno del mio Profilo GitHub potrete trovare tutti i miei progetti ed esercizi svolti 👉🏻https://github.com/AntonioCare.<br>
 Contatti e CV📫👇🏻<br>
-CV:<a href="https://drive.google.com/drive/folders/18Cu-_yekUJSxeD_SvSv0lmQkOwLQu30Q?usp=sharing">Curriculum</a> 
-Profilo Linkedin:www.linkedin.com/in/antonio-carè-1b1844337<br>
+<a href="https://drive.google.com/drive/folders/18Cu-_yekUJSxeD_SvSv0lmQkOwLQu30Q?usp=sharing">Curriculum</a> <br>
+<a href="www.linkedin.com/in/antonio-carè-1b1844337">Profilo Linkedin</a><br>
 Email:Care.antonio17@gmail.com<br>
